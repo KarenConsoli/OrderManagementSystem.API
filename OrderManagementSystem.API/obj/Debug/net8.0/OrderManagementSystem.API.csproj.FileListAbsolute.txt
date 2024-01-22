@@ -1,0 +1,6 @@
+C:\Users\kbc_9\source\repos\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.csproj.AssemblyReference.cache
+C:\Users\kbc_9\source\repos\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbc_9\source\repos\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.AssemblyInfoInputs.cache
+C:\Users\kbc_9\source\repos\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.AssemblyInfo.cs
+C:\Users\kbc_9\source\repos\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\kbc_9\source\repos\OrderManagementSystem.API\obj\Debug\net8.0\OrderManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
