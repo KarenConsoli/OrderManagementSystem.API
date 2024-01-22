@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kbc_9\\source\\repos\\OrderManagementSystem.Services\\OrderManagementSystem.Services.csproj",
+      "projectUniqueName": "K:\\Projects\\OrderManagementSystem.API\\OrderManagementSystem.Services\\OrderManagementSystem.Services.csproj",
       "projectName": "OrderManagementSystem.Services",
-      "projectPath": "C:\\Users\\kbc_9\\source\\repos\\OrderManagementSystem.Services\\OrderManagementSystem.Services.csproj",
+      "projectPath": "K:\\Projects\\OrderManagementSystem.API\\OrderManagementSystem.Services\\OrderManagementSystem.Services.csproj",
       "packagesPath": "C:\\Users\\kbc_9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kbc_9\\source\\repos\\OrderManagementSystem.Services\\obj\\",
+      "outputPath": "K:\\Projects\\OrderManagementSystem.API\\OrderManagementSystem.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\kbc_9\\source\\repos\\OrderManagementSystem.Models\\OrderManagementSystem.Models.csproj": {
-              "projectPath": "C:\\Users\\kbc_9\\source\\repos\\OrderManagementSystem.Models\\OrderManagementSystem.Models.csproj"
+            "K:\\Projects\\OrderManagementSystem.API\\OrderManagementSystem.Models\\OrderManagementSystem.Models.csproj": {
+              "projectPath": "K:\\Projects\\OrderManagementSystem.API\\OrderManagementSystem.Models\\OrderManagementSystem.Models.csproj"
             }
           }
         }

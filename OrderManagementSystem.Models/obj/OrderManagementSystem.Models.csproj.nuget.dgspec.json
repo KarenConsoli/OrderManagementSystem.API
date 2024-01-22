@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kbc_9\\source\\repos\\OrderManagementSystem.Models\\OrderManagementSystem.Models.csproj": {}
+    "K:\\Projects\\OrderManagementSystem.API\\OrderManagementSystem.Models\\OrderManagementSystem.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kbc_9\\source\\repos\\OrderManagementSystem.Models\\OrderManagementSystem.Models.csproj": {
+    "K:\\Projects\\OrderManagementSystem.API\\OrderManagementSystem.Models\\OrderManagementSystem.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kbc_9\\source\\repos\\OrderManagementSystem.Models\\OrderManagementSystem.Models.csproj",
+        "projectUniqueName": "K:\\Projects\\OrderManagementSystem.API\\OrderManagementSystem.Models\\OrderManagementSystem.Models.csproj",
         "projectName": "OrderManagementSystem.Models",
-        "projectPath": "C:\\Users\\kbc_9\\source\\repos\\OrderManagementSystem.Models\\OrderManagementSystem.Models.csproj",
+        "projectPath": "K:\\Projects\\OrderManagementSystem.API\\OrderManagementSystem.Models\\OrderManagementSystem.Models.csproj",
         "packagesPath": "C:\\Users\\kbc_9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kbc_9\\source\\repos\\OrderManagementSystem.Models\\obj\\",
+        "outputPath": "K:\\Projects\\OrderManagementSystem.API\\OrderManagementSystem.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
