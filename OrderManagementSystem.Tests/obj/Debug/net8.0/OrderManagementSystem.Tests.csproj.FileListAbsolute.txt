@@ -1,0 +1,6 @@
+C:\Users\kbc_9\source\repos\OrderManagementSystem.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_OrderManagementSystem.Tests
+C:\Users\kbc_9\source\repos\OrderManagementSystem.Tests\obj\Debug\net8.0\OrderManagementSystem.Tests.csproj.AssemblyReference.cache
+C:\Users\kbc_9\source\repos\OrderManagementSystem.Tests\obj\Debug\net8.0\OrderManagementSystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbc_9\source\repos\OrderManagementSystem.Tests\obj\Debug\net8.0\OrderManagementSystem.Tests.AssemblyInfoInputs.cache
+C:\Users\kbc_9\source\repos\OrderManagementSystem.Tests\obj\Debug\net8.0\OrderManagementSystem.Tests.AssemblyInfo.cs
+C:\Users\kbc_9\source\repos\OrderManagementSystem.Tests\obj\Debug\net8.0\OrderManagementSystem.Tests.csproj.CoreCompileInputs.cache
