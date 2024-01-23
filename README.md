@@ -33,15 +33,6 @@ This Order Management System is an ASP.NET Core Web API project designed to mana
    }
    ```
 
-### Database Migrations
-
-To set up your database schema and seed initial data, use the Entity Framework Core tools:
-
-```bash
-dotnet ef migrations add InitialCreate --project OrderManagementSystem.Data
-dotnet ef database update --project OrderManagementSystem.Data
-```
-
 ## Project Structure
 
 - **OrderManagementSystem.API**: The web API project.
