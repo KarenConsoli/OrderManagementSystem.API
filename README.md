@@ -41,9 +41,9 @@ This Order Management System is an ASP.NET Core Web API project designed to mana
 - **OrderManagementSystem.Data**: Manages data access, migrations, and DbContext.
 - **OrderManagementSystem.Tests**: Contains unit tests.
 
-## Project Structure
+## Database Setup
 
-Execute the OrderManagementSystemSchema.sql in your local SQL Server DB with SQL Manaqgement Studio.
+Execute the OrderManagementSystemSchema.sql in your local SQL Server DB with SQL Management Studio.
 
 ## API Endpoints to Implement
 
