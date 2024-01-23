@@ -49,6 +49,7 @@ Execute the OrderManagementSystemSchema.sql in your local SQL Server DB with SQL
 
 - **Products**:
   - `GET /products/{id}`: Retrieve a product by ID.
+  - `GET /products`: Retrieve all products.
   - `POST /products`: Add a new product.
 - **Orders**:
   - `POST /orders`: Create a new order.
